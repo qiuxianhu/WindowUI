@@ -1,0 +1,2 @@
+﻿功能说明： 仿web 滑块验证
+详细说明：https://www.cnblogs.com/qtiger/p/10695880.html

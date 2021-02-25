@@ -1,0 +1,9 @@
+D:\PersonalInfo\WindowUI\WindowsUI\SliderValidation\obj\Debug\SliderValidation.csprojAssemblyReference.cache
+D:\PersonalInfo\WindowUI\WindowsUI\SliderValidation\obj\Debug\SliderValidation.Properties.Resources.resources
+D:\PersonalInfo\WindowUI\WindowsUI\SliderValidation\obj\Debug\SliderValidation.csproj.GenerateResource.cache
+D:\PersonalInfo\WindowUI\WindowsUI\SliderValidation\obj\Debug\SliderValidation.csproj.CoreCompileInputs.cache
+D:\PersonalInfo\WindowUI\WindowsUI\SliderValidation\bin\Debug\SliderValidation.exe.config
+D:\PersonalInfo\WindowUI\WindowsUI\SliderValidation\bin\Debug\SliderValidation.exe
+D:\PersonalInfo\WindowUI\WindowsUI\SliderValidation\bin\Debug\SliderValidation.pdb
+D:\PersonalInfo\WindowUI\WindowsUI\SliderValidation\obj\Debug\SliderValidation.exe
+D:\PersonalInfo\WindowUI\WindowsUI\SliderValidation\obj\Debug\SliderValidation.pdb

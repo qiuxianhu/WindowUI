@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoBorderForm", "NoBorderFor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackBarSlider", "TrackBarSlider\TrackBarSlider.csproj", "{9E6846E7-6947-4BF0-87B4-84B1024C0709}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SliderValidation", "SliderValidation\SliderValidation.csproj", "{C07D3D90-1223-4649-9F36-7A0F834B153C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{9E6846E7-6947-4BF0-87B4-84B1024C0709}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E6846E7-6947-4BF0-87B4-84B1024C0709}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E6846E7-6947-4BF0-87B4-84B1024C0709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C07D3D90-1223-4649-9F36-7A0F834B153C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07D3D90-1223-4649-9F36-7A0F834B153C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07D3D90-1223-4649-9F36-7A0F834B153C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07D3D90-1223-4649-9F36-7A0F834B153C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
