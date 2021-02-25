@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C07D3D90-1223-4649-9F36-7A0F834B153C}</ProjectGuid>
+    <ProjectGuid>{F1B3B6BF-BAB7-4AA5-A91C-187AED96AD6C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>SliderValidation</RootNamespace>
-    <AssemblyName>SliderValidation</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <RootNamespace>WinFormGetActiveProcess</RootNamespace>
+    <AssemblyName>WinFormGetActiveProcess</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
@@ -46,24 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CommonControl\ImageButton.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="CommonControl\ImageButton.Designer.cs">
-      <DependentUpon>ImageButton.cs</DependentUpon>
-    </Compile>
-    <Compile Include="CommonControl\ImageSliderPanel.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="CommonControl\ImageSliderPanel.Designer.cs">
-      <DependentUpon>ImageSliderPanel.cs</DependentUpon>
-    </Compile>
-    <Compile Include="CommonControl\VerifySliderPanel.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="CommonControl\VerifySliderPanel.Designer.cs">
-      <DependentUpon>VerifySliderPanel.cs</DependentUpon>
-    </Compile>
+    <Compile Include="ActiveProcessHelper.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -72,6 +55,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -80,7 +66,6 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -96,9 +81,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\arrow.png" />
-    <Content Include="Resources\selected%402x.png" />
-    <Content Include="Resources\_popupclose.png" />
     <Content Include="说明.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

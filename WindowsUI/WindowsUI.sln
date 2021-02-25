@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackBarSlider", "TrackBarS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SliderValidation", "SliderValidation\SliderValidation.csproj", "{C07D3D90-1223-4649-9F36-7A0F834B153C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetActiveProcess", "GetActiveProcess\GetActiveProcess.csproj", "{F1B3B6BF-BAB7-4AA5-A91C-187AED96AD6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C07D3D90-1223-4649-9F36-7A0F834B153C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C07D3D90-1223-4649-9F36-7A0F834B153C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C07D3D90-1223-4649-9F36-7A0F834B153C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B3B6BF-BAB7-4AA5-A91C-187AED96AD6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B3B6BF-BAB7-4AA5-A91C-187AED96AD6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B3B6BF-BAB7-4AA5-A91C-187AED96AD6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B3B6BF-BAB7-4AA5-A91C-187AED96AD6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
