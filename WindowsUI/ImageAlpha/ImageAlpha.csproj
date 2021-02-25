@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{38018495-CC8A-4102-8372-27538796CCF1}</ProjectGuid>
+    <ProjectGuid>{7862FCEA-A48A-4490-B783-759DED533FBE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>ImageCompress</RootNamespace>
-    <AssemblyName>ImageCompress</AssemblyName>
+    <RootNamespace>ImageAlpha</RootNamespace>
+    <AssemblyName>ImageAlpha</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -76,9 +76,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="说明.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

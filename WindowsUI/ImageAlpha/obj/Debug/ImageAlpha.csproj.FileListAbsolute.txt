@@ -1,0 +1,9 @@
+D:\PersonalInfo\WindowUI\WindowsUI\ImageAlpha\obj\Debug\ImageAlpha.csprojAssemblyReference.cache
+D:\PersonalInfo\WindowUI\WindowsUI\ImageAlpha\obj\Debug\ImageAlpha.Properties.Resources.resources
+D:\PersonalInfo\WindowUI\WindowsUI\ImageAlpha\obj\Debug\ImageAlpha.csproj.GenerateResource.cache
+D:\PersonalInfo\WindowUI\WindowsUI\ImageAlpha\obj\Debug\ImageAlpha.csproj.CoreCompileInputs.cache
+D:\PersonalInfo\WindowUI\WindowsUI\ImageAlpha\bin\Debug\ImageAlpha.exe.config
+D:\PersonalInfo\WindowUI\WindowsUI\ImageAlpha\bin\Debug\ImageAlpha.exe
+D:\PersonalInfo\WindowUI\WindowsUI\ImageAlpha\bin\Debug\ImageAlpha.pdb
+D:\PersonalInfo\WindowUI\WindowsUI\ImageAlpha\obj\Debug\ImageAlpha.exe
+D:\PersonalInfo\WindowUI\WindowsUI\ImageAlpha\obj\Debug\ImageAlpha.pdb
