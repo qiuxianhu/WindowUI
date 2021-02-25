@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCompress", "ImageCompr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageAlpha", "ImageAlpha\ImageAlpha.csproj", "{7862FCEA-A48A-4490-B783-759DED533FBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SvgApply", "SvgApply\SvgApply.csproj", "{3F652E2D-00BC-4244-AB6E-18BE5501CD86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7862FCEA-A48A-4490-B783-759DED533FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7862FCEA-A48A-4490-B783-759DED533FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7862FCEA-A48A-4490-B783-759DED533FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F652E2D-00BC-4244-AB6E-18BE5501CD86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F652E2D-00BC-4244-AB6E-18BE5501CD86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F652E2D-00BC-4244-AB6E-18BE5501CD86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F652E2D-00BC-4244-AB6E-18BE5501CD86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

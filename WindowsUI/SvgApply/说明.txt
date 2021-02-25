@@ -1,0 +1,2 @@
+﻿功能说明：将svg应用在其他软件上，如PS
+详细说明：https://www.cnblogs.com/qtiger/p/10696184.html
