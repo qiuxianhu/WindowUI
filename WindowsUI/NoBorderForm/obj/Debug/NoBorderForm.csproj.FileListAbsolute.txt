@@ -1,0 +1,9 @@
+D:\PersonalInfo\WindowUI\WindowsUI\NoBorderForm\obj\Debug\NoBorderForm.csprojAssemblyReference.cache
+D:\PersonalInfo\WindowUI\WindowsUI\NoBorderForm\obj\Debug\NoBorderForm.Properties.Resources.resources
+D:\PersonalInfo\WindowUI\WindowsUI\NoBorderForm\obj\Debug\NoBorderForm.csproj.GenerateResource.cache
+D:\PersonalInfo\WindowUI\WindowsUI\NoBorderForm\obj\Debug\NoBorderForm.csproj.CoreCompileInputs.cache
+D:\PersonalInfo\WindowUI\WindowsUI\NoBorderForm\bin\Debug\NoBorderForm.exe.config
+D:\PersonalInfo\WindowUI\WindowsUI\NoBorderForm\bin\Debug\NoBorderForm.exe
+D:\PersonalInfo\WindowUI\WindowsUI\NoBorderForm\bin\Debug\NoBorderForm.pdb
+D:\PersonalInfo\WindowUI\WindowsUI\NoBorderForm\obj\Debug\NoBorderForm.exe
+D:\PersonalInfo\WindowUI\WindowsUI\NoBorderForm\obj\Debug\NoBorderForm.pdb
