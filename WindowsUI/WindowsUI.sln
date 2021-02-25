@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SvgApply", "SvgApply\SvgApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoBorderForm", "NoBorderForm\NoBorderForm.csproj", "{1FA4650C-B8DA-4631-85A6-9CC6EF655B63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackBarSlider", "TrackBarSlider\TrackBarSlider.csproj", "{9E6846E7-6947-4BF0-87B4-84B1024C0709}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1FA4650C-B8DA-4631-85A6-9CC6EF655B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FA4650C-B8DA-4631-85A6-9CC6EF655B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FA4650C-B8DA-4631-85A6-9CC6EF655B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E6846E7-6947-4BF0-87B4-84B1024C0709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E6846E7-6947-4BF0-87B4-84B1024C0709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E6846E7-6947-4BF0-87B4-84B1024C0709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E6846E7-6947-4BF0-87B4-84B1024C0709}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

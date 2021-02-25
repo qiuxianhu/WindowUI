@@ -1,0 +1,2 @@
+﻿功能说明： 实现类似于TrackBar的自定义滑动条，功能更全
+详细说明：https://www.cnblogs.com/qtiger/p/10769457.html

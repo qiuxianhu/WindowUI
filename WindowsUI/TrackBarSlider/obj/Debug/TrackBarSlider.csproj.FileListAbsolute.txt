@@ -1,0 +1,9 @@
+D:\PersonalInfo\WindowUI\WindowsUI\TrackBarSlider\obj\Debug\TrackBarSlider.csprojAssemblyReference.cache
+D:\PersonalInfo\WindowUI\WindowsUI\TrackBarSlider\obj\Debug\TrackBarSlider.Properties.Resources.resources
+D:\PersonalInfo\WindowUI\WindowsUI\TrackBarSlider\obj\Debug\TrackBarSlider.csproj.GenerateResource.cache
+D:\PersonalInfo\WindowUI\WindowsUI\TrackBarSlider\obj\Debug\TrackBarSlider.csproj.CoreCompileInputs.cache
+D:\PersonalInfo\WindowUI\WindowsUI\TrackBarSlider\bin\Debug\TrackBarSlider.exe.config
+D:\PersonalInfo\WindowUI\WindowsUI\TrackBarSlider\bin\Debug\TrackBarSlider.exe
+D:\PersonalInfo\WindowUI\WindowsUI\TrackBarSlider\bin\Debug\TrackBarSlider.pdb
+D:\PersonalInfo\WindowUI\WindowsUI\TrackBarSlider\obj\Debug\TrackBarSlider.exe
+D:\PersonalInfo\WindowUI\WindowsUI\TrackBarSlider\obj\Debug\TrackBarSlider.pdb
