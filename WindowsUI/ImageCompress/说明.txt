@@ -1,0 +1,2 @@
+﻿功能说明：图片压缩
+详细说明：https://www.cnblogs.com/qtiger/p/10770101.html

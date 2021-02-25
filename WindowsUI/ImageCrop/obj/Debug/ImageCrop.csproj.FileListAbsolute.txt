@@ -1,0 +1,9 @@
+D:\PersonalInfo\WindowUI\WindowsUI\ImageCrop\bin\Debug\ImageCrop.exe.config
+D:\PersonalInfo\WindowUI\WindowsUI\ImageCrop\bin\Debug\ImageCrop.exe
+D:\PersonalInfo\WindowUI\WindowsUI\ImageCrop\bin\Debug\ImageCrop.pdb
+D:\PersonalInfo\WindowUI\WindowsUI\ImageCrop\obj\Debug\ImageCrop.csprojAssemblyReference.cache
+D:\PersonalInfo\WindowUI\WindowsUI\ImageCrop\obj\Debug\ImageCrop.Properties.Resources.resources
+D:\PersonalInfo\WindowUI\WindowsUI\ImageCrop\obj\Debug\ImageCrop.csproj.GenerateResource.cache
+D:\PersonalInfo\WindowUI\WindowsUI\ImageCrop\obj\Debug\ImageCrop.csproj.CoreCompileInputs.cache
+D:\PersonalInfo\WindowUI\WindowsUI\ImageCrop\obj\Debug\ImageCrop.exe
+D:\PersonalInfo\WindowUI\WindowsUI\ImageCrop\obj\Debug\ImageCrop.pdb

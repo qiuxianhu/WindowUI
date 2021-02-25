@@ -1,0 +1,9 @@
+D:\PersonalInfo\WindowUI\WindowsUI\ImageCompress\obj\Debug\ImageCompress.csprojAssemblyReference.cache
+D:\PersonalInfo\WindowUI\WindowsUI\ImageCompress\obj\Debug\ImageCompress.Properties.Resources.resources
+D:\PersonalInfo\WindowUI\WindowsUI\ImageCompress\obj\Debug\ImageCompress.csproj.GenerateResource.cache
+D:\PersonalInfo\WindowUI\WindowsUI\ImageCompress\obj\Debug\ImageCompress.csproj.CoreCompileInputs.cache
+D:\PersonalInfo\WindowUI\WindowsUI\ImageCompress\bin\Debug\ImageCompress.exe.config
+D:\PersonalInfo\WindowUI\WindowsUI\ImageCompress\bin\Debug\ImageCompress.exe
+D:\PersonalInfo\WindowUI\WindowsUI\ImageCompress\bin\Debug\ImageCompress.pdb
+D:\PersonalInfo\WindowUI\WindowsUI\ImageCompress\obj\Debug\ImageCompress.exe
+D:\PersonalInfo\WindowUI\WindowsUI\ImageCompress\obj\Debug\ImageCompress.pdb
